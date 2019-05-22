@@ -1,4 +1,3 @@
 # Demo app executable
 demo-app
 terraform_setup/
-terraform_setup/terraform.tfvars
